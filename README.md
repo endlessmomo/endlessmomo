@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Frameworks, AWS**
 
-- 👨‍💻 All of my projects are available at [https://mud-bed-d18.notion.site/MVC-697c8c5f18ec4346bed1441a51e9091a](https://mud-bed-d18.notion.site/MVC-697c8c5f18ec4346bed1441a51e9091a)
-
 - 📫 How to reach me **soohyuk96@naver.com**
 
 <h3 align="left">Connect with me : </h3>
