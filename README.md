@@ -1,5 +1,5 @@
 <div> 
-  <img src="https://img.shields.io/badge/Spring-#58FA58?style=for-the-badge&logo=#6DB33F&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-#58FA58?style=plastic&logo=#6DB33F&logoColor=white">
 
 </div>
   
