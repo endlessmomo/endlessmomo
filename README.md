@@ -10,7 +10,9 @@
 
 - 📫 How to reach me **soohyuk96@naver.com**
 
-<h3 align="left">Connect with me : soohyuk96@naver.com</h3>
+<h3 align="left">Connect with me : </h3>
+<p> e-mail : soohyuk96@naver.com </p>
+<p> blog : https://velog.io/@endlessmomo </p>
 <p align="left">
 </p>
 
