@@ -23,4 +23,4 @@
 
 <p> &nbsp&nbsp </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=endlessmomo&show_icons=true&locale=en" alt="endlessmomo" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=endlessmomo&show_icons=true&locale=en" alt="endlessmomo" /></p>
