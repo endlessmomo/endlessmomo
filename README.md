@@ -10,7 +10,7 @@
 
 <h3 align="left">  Connect with me : </h3>
 <p>  ✉️ e-mail : soohyuk96@naver.com </p>
-<p>  🧑🏻‍💻 Notion : [https://mud-bed-d18.notion.site/Spring-7fe128f5c6f04fa2b0919d406a142ecf ](https://mud-bed-d18.notion.site/Spring-7fe128f5c6f04fa2b0919d406a142ecf)</p>
+<p>  🧑🏻‍💻 Notion : https://bit.ly/3YGUc0P </p>
 <p align="left">
 </p>
 
