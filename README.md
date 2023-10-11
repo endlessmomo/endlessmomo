@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Yuki's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
-<h3 align="left"> 🙇🏻‍ 안녕하세요 끊임없이 고민하는 개발자 엄수혁입니다. </h3>
+<h3 align="left"> 🙇🏻‍ 안녕하세요 성장을 갈망하는 개발자 엄수혁입니다. </h3>
 
 <h3 align="left">📚 Tech Stack 📚</h3>
 <p align="left">
